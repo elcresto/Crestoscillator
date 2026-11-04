@@ -1,10 +1,10 @@
 # 🎛️ CRESTOSCILLATOR
 
-### Haciendo ruido en vez de trabajar.
+### Capaz que laburo.
 
-Tengo sueño, no quiero laburar. Así que hice un sintetizador.
+Tengo sueño, no quiero laburar. Así hice un sintetizador.
 
-Un pequeño laboratorio de sonidos para experimentar, jugar con frecuencias y crear ruidos que probablemente no deberían existir.
+Un pequeño laboratorio de sonidos para experimentar, jugar con frecuencias y crear ruidos que probablemente no deberían existir, en vez de agarrar la pala como deberia.
 
 Hecho con curiosidad, decisiones cuestionables y una mano de Claude AI.
 
