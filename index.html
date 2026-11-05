@@ -30,6 +30,10 @@ button.b:active{background:var(--hl)}
 button.b.act{background:var(--ink);color:var(--paper)}
 input[type=range]{flex:1;min-width:120px;accent-color:var(--ink)}
 .total{display:flex;justify-content:space-between;font-size:20px;font-weight:bold;margin-top:4px}
+
+.ufo-footer{text-align:center;margin-top:14px;padding-top:9px;border-top:1px dashed var(--line);color:var(--dim)}
+.ufo-footer pre{display:table;margin:0 auto;transform:translateX(-8px);font-family:"Courier New",Courier,monospace;font-size:9px;line-height:1.0;color:var(--dim);white-space:pre;text-align:left}
+.ufo-footer .signal{font-size:8px;letter-spacing:1.5px;margin-top:5px;color:var(--dim)}
 </style>
 </head>
 <body>
@@ -67,6 +71,15 @@ input[type=range]{flex:1;min-width:120px;accent-color:var(--ink)}
 </div>
 <hr>
 <div class="total"><span>TOTAL</span><span id="tot"></span></div>
+<div class="ufo-footer">
+<pre>
+          .----.
+      .--(____)--.
+     '----------'
+        *  *  *
+</pre>
+<div class="signal">UNKNOWN TRANSMISSION</div>
+</div>
 </div>
 <script>
 const NAMES=['Kick','Snare','Hat'];
